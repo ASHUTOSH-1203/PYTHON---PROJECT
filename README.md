@@ -1,2 +1,0 @@
-# PYTHON---PROJECT
-Python Project
